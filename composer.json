@@ -1,5 +1,5 @@
 {
-    "name": "codenix-sv/bittrex-api",
+    "name": "crassula/bittrex-php-client",
     "type": "library",
     "description": "PHP client for Bittrex API",
     "homepage": "https://github.com/codenix-sv/bittrex-api",
@@ -19,7 +19,7 @@
     "require": {
         "php": ">=7.2",
         "ext-json": "*",
-        "guzzlehttp/guzzle": "~6.0"
+        "guzzlehttp/guzzle": "^7.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.0"
